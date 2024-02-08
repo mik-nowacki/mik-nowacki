@@ -7,15 +7,13 @@ width="400"
 src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGJ5eDJxcXpyc25zYXNncHlhcmJyanozN2pzcjNrbmo0YTQzazlzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"
 />
 
-- 🏫 I study **Automatic Control and Robotics** at **Poznan University of
-Technology** - 🤖 I'm an active member of
-<a
-href="https://www.linkedin.com/company/kn-cybair/"
-target="_blank"
-rel="noopener noreferrer">CybAiR Science Club</a>
+- 🏫 I study **Automatic Control and Robotics** at **Poznan University of Technology**
 
-- 🌱 I’m currently learning **React** and **React Native** - ⚡ Fun fact:
-**I can play violin, viola, and piano**
+- 🤖 I'm an active member of <a href="https://www.linkedin.com/company/kn-cybair/" target="_blank" rel="noopener noreferrer">CybAiR Science Club</a>
+
+- 🌱 I’m currently learning **React** and **React Native**
+
+- ⚡ Fun fact: **I can play violin, viola, and piano**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
