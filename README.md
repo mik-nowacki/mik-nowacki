@@ -10,7 +10,7 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGJ5eDJxcXpyc25zYXNncHlhc
 
 - 🤖 I'm an active member of <a href="https://www.linkedin.com/company/kn-cybair/" target="_blank" rel="noopener noreferrer">CybAiR Science Club</a>
 
-- 🌱 I’m currently learning **React** and **React Native**
+- 🌱 I’m currently learning **Java** and **Python** for back-end development
 
 - ⚡ Fun fact: **I can play violin, viola, and piano**
 
