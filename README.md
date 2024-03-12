@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]()
 <h1 align="center">Hi 👋, I'm Mikołaj Nowacki</h1>
 <img
 align="right"
@@ -7,7 +6,7 @@ width="400"
 src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGJ5eDJxcXpyc25zYXNncHlhcmJyanozN2pzcjNrbmo0YTQzazlzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"
 />
 
-- 🏫 I study **Automatic Control and Robotics** at **Poznan University of Technology**
+- 🏫 I'm a **Computer Science Master's Degree** student at **Poznan University of Technology**
 
 - 🤖 I'm an active member of <a href="https://www.linkedin.com/company/kn-cybair/" target="_blank" rel="noopener noreferrer">CybAiR Science Club</a>
 
