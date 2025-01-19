@@ -6,16 +6,30 @@ width="400"
 src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGJ5eDJxcXpyc25zYXNncHlhcmJyanozN2pzcjNrbmo0YTQzazlzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"
 />
 
-- 🏫 I'm a **Computer Science Master's Degree** student at **Poznan University of Technology**
+- 🏫 I'm a student of **Applied Data Science Master's Degree** at the **University of Gothenburg** 🇸🇪
+  
+- 🎓 I graduated with a **Bachelor of Engineering** degree in **Automation and Robotics** from the **Poznan University of Technology** 🇵🇱
+  
+- 🌱 I’m currently learning **Back-end** in Java and Python, and **Machine Learning** in Python
 
-- 🤖 I'm an active member of <a href="https://www.linkedin.com/company/kn-cybair/" target="_blank" rel="noopener noreferrer">CybAiR Science Club</a>
+- ⚡ I'm interested in surfing, skiing, sailing, climbing and playing the piano!
 
-- 🌱 I’m currently learning **Java** and **Python** for back-end development
-
-- ⚡ Fun fact: **I can play violin, viola, and piano**
-
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">I'm familiar with:</h3>
 <p align="left">
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+    alt="python"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
+    alt="java" 
+    width="40" 
+    height="40"/> 
+</a>
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
   <img
     src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"
@@ -24,13 +38,11 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGJ5eDJxcXpyc25zYXNncHlhc
     height="40"
   />
 </a>
-<a href="https://developer.android.com" target="_blank" rel="noreferrer">
-  <img
-    src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg"
-    alt="android"
-    width="40"
-    height="40"
-  />
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" 
+    alt="postgresql" 
+    width="40" 
+    height="40"/> 
 </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
   <img
@@ -40,42 +52,10 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGJ5eDJxcXpyc25zYXNncHlhc
     height="40"
   />
 </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-    alt="python"
-    width="40"
-    height="40"
-  />
-</a>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer">
-  <img
-    src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"
-    alt="opencv"
-    width="40"
-    height="40"
-  />
-</a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-    alt="pandas"
-    width="40"
-    height="40"
-  />
-</a>
 <a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
     alt="cplusplus"
-    width="40"
-    height="40"
-  />
-</a>
-<a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
-  <img
-    src="https://cdn2.unrealengine.com/ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f.png"
-    alt="unreal"
     width="40"
     height="40"
   />
@@ -114,7 +94,7 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGJ5eDJxcXpyc25zYXNncHlhc
   rel="noreferrer"
 >
   <img
-    src="https://wiki.st.com/stm32mcu/nsfr_img_auth.php/4/4e/STM32.png"
+    src="https://wiki.st.com/stm32mpu/nsfr_img_auth.php/2/2f/STM32_logo.png"
     alt="STM32"
     width="40"
     height="40"
