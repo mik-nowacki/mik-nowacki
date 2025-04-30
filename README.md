@@ -10,7 +10,7 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGJ5eDJxcXpyc25zYXNncHlhc
   
 - 🎓 I graduated with a **Bachelor of Engineering** degree in **Automation and Robotics** from the **Poznan University of Technology** 🇵🇱
   
-- 🌱 I’m currently learning **Back-end** in Java and Python, and **Machine Learning** in Python
+- 🌱 I'm currently learning Django and PyTorch (and a little bit of React).
 
 - ⚡ I'm interested in surfing, skiing, sailing, climbing and playing the piano!
 
